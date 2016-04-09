@@ -51,6 +51,5 @@ Everything is summarized in the [CONTRIBUTING](CONTRIBUTING.md) file.
 
 
 ## License
-
- [LGPL v3](LICENSE) 
+[![License : LGPL v3](http://www.gnu.org/graphics/lgplv3-147x51.png)](LICENSE) 
 
